@@ -185,21 +185,6 @@ The application runs in demo mode by default, which means:
 7. Use the Mastra Agent to run additional analysis on the documents
 8. Send notifications about the KYC status if needed
 
-### Sample Documents
-
-The `sample input` folder contains several documents for testing the KYC automation agent:
-
-- **00000000 Template - Engagement - Incorporation Form - PLC.pdf**: Template for company incorporation
-- **Director Appointment Truffles AI.docx**: Document for director appointment
-- **Director Registry Truffles AI.docx**: Registry of company directors
-- **John Doe Full.docx**: Personal information for John Doe
-- **John Doe Passport Full.docx**: Passport information for John Doe
-- **Proof of Address John Doe (3).docx**: Proof of address document
-- **Truffles AI Holdings Company Profile.docx**: Company profile document
-- **Truffles AI Shareholder Registry.docx**: Registry of company shareholders
-
-Upload these documents to test the KYC automation workflow.
-
 ## Mastra AI Integration
 
 This project integrates with Mastra AI to orchestrate the KYC automation workflow. The agent uses the following tools:
